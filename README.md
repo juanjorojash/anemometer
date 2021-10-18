@@ -24,5 +24,4 @@ Anemometer reading and cloud uploading software -- README
 ### Who do I talk to? ###
 
 * [Juan J. Rojas](mailto:juan.rojas@tec.ac.cr)
-* [Alejandro Arroyo](mailto: alearroyov98@gmail.com) 
 * [Gustavo Richmond](mailto:grichmond@tec.ac.cr)
